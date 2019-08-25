@@ -1,0 +1,13 @@
+## Interface: 11302
+## Title: XpCounter
+## Author: coolmodi
+## Version: 1.0
+## Notes: Tracks XP gain and shows XP/h and time to level up. |cFFFFFF00/xpc|r for info
+## SavedVariables: XpCounter_SVData
+
+i18n/loc.lua
+i18n/enUS.lua
+i18n/deDE.lua
+
+ui.lua
+main.lua
